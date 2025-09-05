@@ -1,0 +1,25 @@
+[
+  {
+    "title": "First Blog Post",
+    "date": "2025-09-05",
+    "content": "Welcome to my new blog! Here’s an image from my recent project.",
+    "image": "/files/my-cool-image.jpg"
+  },
+  {
+    "title": "Check Out This Video!",
+    "date": "2025-09-03",
+    "content": "This video shows my latest animation.",
+    "video": "/files/my-animation.mp4"
+  },
+  {
+    "title": "Watch My YouTube Demo",
+    "date": "2025-09-02",
+    "content": "Here’s a YouTube demo of my work.",
+    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "title": "Text Only Post",
+    "date": "2025-09-01",
+    "content": "No images or videos in this one."
+  }
+]
