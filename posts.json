@@ -12,6 +12,6 @@
   {
     "title": "check out my new 'Clouded World' EP",
     "date": "",
-    "content": "<a href=\"https://open.spotify.com/album/7mD3PUqiurFUiHnzfC4j5R?si=V2Ss4JrLSyqGd6sXgzvTuw\" target=\"_blank\">Listen on Spotify</a>"
+    "content": "<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7mD3PUqiurFUiHnzfC4j5R?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>"
   }
 ]
